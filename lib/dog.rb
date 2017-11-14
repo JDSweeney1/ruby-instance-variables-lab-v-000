@@ -1,4 +1,5 @@
-class Dogdef name=(dog_name)
+class Dog
+  def name=(dog_name)
     this_dongs_name = dog_name
   end
 
